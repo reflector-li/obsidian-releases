@@ -24022,5 +24022,12 @@
     "author": "kuboon",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Open prev/next note based on explorer sorting order",
     "repo": "kuboon/daily-nav"
+  },
+  {
+    "id": "vocalog",
+    "name": "Vocalog",
+    "author": "LinkX",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Automatically transcribe audio recordings and generate structured daily notes with AI summaries.",
+    "repo": "reflector-li/Vocalog"
   }
 ]
